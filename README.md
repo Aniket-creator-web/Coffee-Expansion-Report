@@ -3,7 +3,8 @@
 **Project Title:** Coffee Expansion Report Analysis
 
 **Objective:**
-The goal of this project was to analyze the sales data of Monday Coffee, an online coffee retailer since January 2023, and recommend the top three cities in India for opening new coffee shop locations based on consumer demand and sales performance.
+The goal of this project was to analyze the sales data of Monday Coffee, an online coffee retailer since January 2023, 
+and recommend the top three cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
 **Data Details:**
 The analysis used four CSV files, imported into SQL, containing the following tables:
@@ -32,7 +33,8 @@ Key SQL operations and techniques used include:
 **7.Customer Segmentation by City:** Unique customers in each city purchasing coffee products.
 **8.Average Sales vs Rent:** Average sales and rent per customer in each city.
 **9.Monthly Sales Growth:** Percentage growth/decline in sales by city over monthly periods.
-**10.Market Potential Analysis:** Identified top 3 cities based on highest sales, including metrics such as total sales, total rent, customer count, and estimated coffee consumers.
+**10.Market Potential Analysis:** Identified top 3 cities based on highest sales, including metrics such as total sales, total rent, customer count, 
+and estimated coffee consumers.
 
 **Conclusion:**
 The analysis provided comprehensive insights into consumer behavior, sales trends, and market potential. The top-performing cities for expansion were identified based on factors such as revenue, customer base, and estimated coffee drinkers. These recommendations empower Monday Coffee to strategically grow its offline presence, maximizing profitability and market penetration.
